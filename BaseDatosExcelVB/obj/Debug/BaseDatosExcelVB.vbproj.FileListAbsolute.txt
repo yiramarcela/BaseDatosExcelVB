@@ -27,3 +27,13 @@ C:\Users\Usuario\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\ob
 C:\Users\Usuario\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.Registros.resources
 C:\Users\Usuario\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.GenerateResource.cache
 C:\Users\Usuario\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.MotonaveRegistro.resources
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.Resources.resources
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.Registros.resources
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.exe
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.xml
+C:\Users\Usuario\Desktop\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.pdb
